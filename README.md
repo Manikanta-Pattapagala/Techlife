@@ -16,6 +16,7 @@ This is a web based application developed for technology related website
 - Has collection of many web pages including Home, About Us, categories,technology topics and technology related information etc.
 - User can know about technology information through this website.
 - Included the comment space to increase the scope of improvement
+- 
 🔗Screenshots
 ![home](https://user-images.githubusercontent.com/118873175/204243362-5cec007b-87b0-4723-8fbd-72295ebaf59c.png)
 🔗Disclaimer
@@ -26,6 +27,11 @@ This is a web based application developed for technology related website
 ![3](https://user-images.githubusercontent.com/118873175/204243699-b88ab27e-90f9-42e0-b5f8-315749b21229.png)
 ![4](https://user-images.githubusercontent.com/118873175/204243721-4b9934ae-eeb9-44b1-ab39-6cfe53f0af77.png)
 ![5](https://user-images.githubusercontent.com/118873175/204243754-ea7e6eb2-5a96-438e-a680-4d65e22ed162.png)
+🔗Privacy Policy
+![privacy policy](https://user-images.githubusercontent.com/118873175/204244898-0511a599-9f47-4983-b75d-97be0b48f43d.png)
+🔗About Us
+![about us](https://user-images.githubusercontent.com/118873175/204244993-5092f27b-0d2e-44e7-bb9c-a3f8389c96c8.png)
+
 
 🔗Primary Azure Portal
 
