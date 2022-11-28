@@ -16,8 +16,7 @@ This is a web based application developed for technology related website
 - Has collection of many web pages including Home, About Us, categories,technology topics and technology related information etc.
 - User can know about technology information through this website.
 - Included the comment space to increase the scope of improvement
-- 
-🔗Screenshots
+ 🔗Screenshots
 ![home](https://user-images.githubusercontent.com/118873175/204243362-5cec007b-87b0-4723-8fbd-72295ebaf59c.png)
 🔗Disclaimer
 ![disclaimer](https://user-images.githubusercontent.com/118873175/204243465-b25a7835-504e-4a15-99cc-8005c5322a39.png)
